@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "810534662651",
+    "project_id": "liveintutions",
+    "storage_bucket": "liveintutions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810534662651:android:45ccbdcc071a8fc9b91b5e",
+        "android_client_info": {
+          "package_name": "com.example.liveintutions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810534662651-9dptqshsc7sqrhpb0gnva9qatqedlfkd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.liveintutions",
+            "certificate_hash": "266c0b1fa4ef29422a1d925f03188802be907c29"
+          }
+        },
+        {
+          "client_id": "810534662651-3b158prt0b34qh0pv61accn01tfpksc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnNAXdTPP_zENsLePbpNfrXlEOSaLcRkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810534662651-3b158prt0b34qh0pv61accn01tfpksc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
